@@ -1,11 +1,4 @@
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
-Here is a **fully developed, polished, professional Contributing document** based on your provided context — with your requested addition:
-
-> **“All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.”**
-
-I’ve woven that statement naturally into the document while keeping the structure clean, consistent, and ready for use in an open‑source repository.
-
----
 
 # **Contributing Guide**
 
